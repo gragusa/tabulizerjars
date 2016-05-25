@@ -1,1 +1,1 @@
-importFrom(rJava,.jpackage)
+importFrom(rJava, .jpackage, J)

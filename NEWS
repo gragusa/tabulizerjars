@@ -1,3 +1,8 @@
+# CHANGES TO tabulizerjars 0.1.2 #
+
+* Enabled java headless mode in `.onLoad()`.
+* Add copyright acknowledgement for tabulizer to DESCRIPTION.
+
 # CHANGES TO tabulizerjars 0.1.1 #
 
 * Initial release, moving jars from tabulizer to tabulizerjars.
